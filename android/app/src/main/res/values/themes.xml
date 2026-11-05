@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="biru">#4C6FFF</color>
+    <color name="latar">#F4F6FF</color>
+    <style name="Tema" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/latar</item>
+        <item name="android:colorPrimary">@color/biru</item>
+        <item name="android:colorAccent">@color/biru</item>
+        <item name="android:statusBarColor">@color/biru</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+    </style>
+</resources>

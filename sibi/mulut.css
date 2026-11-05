@@ -1,0 +1,32 @@
+:host{display:block}
+.mw{--mw-size:280px;display:flex;flex-direction:column;align-items:center;gap:8px;font-family:inherit;
+  color:#2B2D42;width:100%}
+.stage{width:100%;max-width:var(--mw-size);aspect-ratio:240/236;border-radius:26px;overflow:hidden;
+  background:linear-gradient(160deg,#DCE9FF 0%,#F1E6FF 100%);box-shadow:inset 0 0 0 3px #fff}
+.stage svg{display:block;width:100%;height:100%}
+.cap{min-height:44px;display:flex;gap:2px;justify-content:center;align-items:flex-end;
+  font-size:34px;font-weight:900;letter-spacing:.04em;line-height:1}
+.cap span{color:#9AA3C7;transition:color .08s,transform .08s;display:inline-block;min-width:.25em}
+.cap span.done{color:#2B2D42}
+.cap span.on{color:#4C6FFF;transform:translateY(-4px) scale(1.25)}
+.seq,.extra{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;align-items:center}
+.seq:empty,.extra:empty,.note:empty{display:none}
+.extra span{font-size:14px;font-weight:700;color:#6B7499}
+button{font:inherit;cursor:pointer;border-radius:14px;border:2px solid #E4EAFF;background:#fff;color:#2B2D42;
+  font-weight:800;padding:6px 12px;min-height:44px;display:inline-flex;align-items:center;gap:6px;
+  transition:transform .12s,box-shadow .12s,background .12s}
+button:hover{transform:translateY(-2px);box-shadow:0 6px 14px rgba(76,111,255,.2)}
+button:focus-visible{outline:3px solid #7B5CFF;outline-offset:2px}
+button svg{width:22px;height:22px;flex:0 0 auto}
+button .ic{font-size:18px;line-height:1}
+.ctl button{white-space:nowrap}
+.seq button{min-width:44px;justify-content:center;font-size:20px}
+.seq button.word{padding:6px 14px;font-size:16px}
+.seq button.on,.extra button.on{background:#4C6FFF;border-color:#4C6FFF;color:#fff}
+.ctl{display:flex;flex-wrap:wrap;gap:8px;width:100%;max-width:var(--mw-size)}
+.ctl .play{flex:1 1 130px;justify-content:center;background:#4C6FFF;border-color:#4C6FFF;color:#fff;font-size:17px;min-height:50px}
+.ctl .play.busy{background:#fff;color:#4C6FFF}
+.ctl .slow{flex:1 0 auto;justify-content:center;font-size:15px}
+.ctl .slow[aria-pressed="true"]{background:#FFF3CD;border-color:#FFB800;color:#5C4400}
+.note{font-size:13px;color:#8A5A00;text-align:center;max-width:var(--mw-size)}
+@media (prefers-reduced-motion:reduce){.cap span,button{transition:none}}

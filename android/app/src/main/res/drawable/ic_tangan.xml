@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tangan isyarat "aku sayang kamu": telunjuk, kelingking, dan ibu jari terbuka -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- telunjuk -->
+    <path android:fillColor="#FFFFFF" android:pathData="M43,58 L43,32 A5,5 0 0 1 53,32 L53,58 Z" />
+    <!-- kelingking -->
+    <path android:fillColor="#FFFFFF" android:pathData="M62,58 L62,39 A4.5,4.5 0 0 1 71,39 L71,60 Z" />
+    <!-- telapak -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M42,54 L72,54 A3,3 0 0 1 75,57 L75,68 C75,78 68,84 58,84 L56,84 C47,84 40,77 40,68 L40,57 A2,2 0 0 1 42,54 Z" />
+    <!-- ibu jari -->
+    <path android:fillColor="#FFFFFF" android:pathData="M43,69 L29,57 A4.6,4.6 0 0 1 35,50 L47,60 Z" />
+    <!-- jari tengah & manis yang dilipat -->
+    <path android:fillColor="#C9D3FF" android:pathData="M53,55 L61.5,55 L61.5,63 L53,63 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M57,55 L57.8,55 L57.8,63 L57,63 Z" />
+</vector>

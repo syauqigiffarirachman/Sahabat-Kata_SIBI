@@ -1,0 +1,3682 @@
+{
+ "normal|A": {
+  "file": "a-normal-f95ec427.mp3",
+  "kecepatan": "normal",
+  "lama": 584,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "A"
+ },
+ "normal|Abu-abu": {
+  "file": "abu-abu-normal-3ebe89c7.mp3",
+  "kecepatan": "normal",
+  "lama": 1168,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Abu-abu"
+ },
+ "normal|Adik": {
+  "file": "adik-normal-029715c3.mp3",
+  "kecepatan": "normal",
+  "lama": 571,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Adik"
+ },
+ "normal|Adik sedang tidur.": {
+  "file": "adik-sedang-tidur-normal-eaa0ec93.mp3",
+  "kecepatan": "normal",
+  "lama": 1617,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Adik sedang tidur."
+ },
+ "normal|Air": {
+  "file": "air-normal-0af2a931.mp3",
+  "kecepatan": "normal",
+  "lama": 761,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Air"
+ },
+ "normal|Ambulans": {
+  "file": "ambulans-normal-c332e7f8.mp3",
+  "kecepatan": "normal",
+  "lama": 1168,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ambulans"
+ },
+ "normal|Anggur": {
+  "file": "anggur-normal-5b281c52.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Anggur"
+ },
+ "normal|Angin": {
+  "file": "angin-normal-46282bce.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Angin"
+ },
+ "normal|Angka": {
+  "file": "angka-normal-6319a694.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Angka"
+ },
+ "normal|Anjing": {
+  "file": "anjing-normal-194389b6.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Anjing"
+ },
+ "normal|Apa": {
+  "file": "apa-normal-591d07a8.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Apa"
+ },
+ "normal|Apa kabar": {
+  "file": "apa-kabar-normal-7477bb2b.mp3",
+  "kecepatan": "normal",
+  "lama": 1155,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Apa kabar"
+ },
+ "normal|Apel": {
+  "file": "apel-normal-c8f16ea7.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Apel"
+ },
+ "normal|Awan": {
+  "file": "awan-normal-d8d1bdff.mp3",
+  "kecepatan": "normal",
+  "lama": 761,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Awan"
+ },
+ "normal|Ayah": {
+  "file": "ayah-normal-b2bd7e8a.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ayah"
+ },
+ "normal|Ayah baca buku.": {
+  "file": "ayah-baca-buku-normal-93516c0c.mp3",
+  "kecepatan": "normal",
+  "lama": 1726,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ayah baca buku."
+ },
+ "normal|Ayam": {
+  "file": "ayam-normal-66249cd3.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ayam"
+ },
+ "normal|Ayam goreng": {
+  "file": "ayam-goreng-normal-63d4226c.mp3",
+  "kecepatan": "normal",
+  "lama": 1264,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ayam goreng"
+ },
+ "normal|Ayam jago": {
+  "file": "ayam-jago-normal-8c8a91f1.mp3",
+  "kecepatan": "normal",
+  "lama": 1291,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ayam jago"
+ },
+ "normal|Ayo": {
+  "file": "ayo-normal-9b953995.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ayo"
+ },
+ "normal|Ayo belajar bersama.": {
+  "file": "ayo-belajar-bersama-normal-6f0c97f2.mp3",
+  "kecepatan": "normal",
+  "lama": 1929,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ayo belajar bersama."
+ },
+ "normal|Ayo gosok gigi.": {
+  "file": "ayo-gosok-gigi-normal-2af97881.mp3",
+  "kecepatan": "normal",
+  "lama": 1726,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ayo gosok gigi."
+ },
+ "normal|Ayo main bola.": {
+  "file": "cache/ayo-main-bola-normal-03afb17e.mp3",
+  "kecepatan": "normal",
+  "lama": 1630,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ayo main bola."
+ },
+ "normal|B": {
+  "file": "b-normal-643f997e.mp3",
+  "kecepatan": "normal",
+  "lama": 625,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "B"
+ },
+ "normal|Baca": {
+  "file": "baca-normal-59dedcca.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Baca"
+ },
+ "normal|Bagus": {
+  "file": "bagus-normal-e37ba761.mp3",
+  "kecepatan": "normal",
+  "lama": 1005,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bagus"
+ },
+ "normal|Baik": {
+  "file": "baik-normal-410265bb.mp3",
+  "kecepatan": "normal",
+  "lama": 598,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Baik"
+ },
+ "normal|Baju": {
+  "file": "baju-normal-647baff8.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Baju"
+ },
+ "normal|Bangun": {
+  "file": "bangun-normal-f3fcac42.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bangun"
+ },
+ "normal|Bantal": {
+  "file": "bantal-normal-92270519.mp3",
+  "kecepatan": "normal",
+  "lama": 924,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bantal"
+ },
+ "normal|Bantu": {
+  "file": "bantu-normal-359b90b3.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bantu"
+ },
+ "normal|Batu": {
+  "file": "batu-normal-ef0dd0de.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Batu"
+ },
+ "normal|Bayi": {
+  "file": "bayi-normal-d65c43e9.mp3",
+  "kecepatan": "normal",
+  "lama": 734,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bayi"
+ },
+ "normal|Bebek": {
+  "file": "bebek-normal-5403e9ae.mp3",
+  "kecepatan": "normal",
+  "lama": 666,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bebek"
+ },
+ "normal|Becak": {
+  "file": "becak-normal-0eb9c75f.mp3",
+  "kecepatan": "normal",
+  "lama": 693,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Becak"
+ },
+ "normal|Belajar": {
+  "file": "belajar-normal-9f534a72.mp3",
+  "kecepatan": "normal",
+  "lama": 1046,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Belajar"
+ },
+ "normal|Beli": {
+  "file": "beli-normal-720cf441.mp3",
+  "kecepatan": "normal",
+  "lama": 720,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Beli"
+ },
+ "normal|Belum": {
+  "file": "belum-normal-26a7bb07.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Belum"
+ },
+ "normal|Berapa": {
+  "file": "berapa-normal-a45924ab.mp3",
+  "kecepatan": "normal",
+  "lama": 1005,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Berapa"
+ },
+ "normal|Berdiri": {
+  "file": "berdiri-normal-fcfd2097.mp3",
+  "kecepatan": "normal",
+  "lama": 1019,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Berdiri"
+ },
+ "normal|Berdoa": {
+  "file": "berdoa-normal-4d90803c.mp3",
+  "kecepatan": "normal",
+  "lama": 1073,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Berdoa"
+ },
+ "normal|Berenang": {
+  "file": "berenang-normal-e53cca6e.mp3",
+  "kecepatan": "normal",
+  "lama": 1033,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Berenang"
+ },
+ "normal|Bersama": {
+  "file": "bersama-normal-da054617.mp3",
+  "kecepatan": "normal",
+  "lama": 1046,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bersama"
+ },
+ "normal|Bersih": {
+  "file": "bersih-normal-2a13be2a.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bersih"
+ },
+ "normal|Beruang": {
+  "file": "beruang-normal-3f5748af.mp3",
+  "kecepatan": "normal",
+  "lama": 978,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Beruang"
+ },
+ "normal|Besar": {
+  "file": "besar-normal-78124c9c.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Besar"
+ },
+ "normal|Besok": {
+  "file": "besok-normal-2c45c1b0.mp3",
+  "kecepatan": "normal",
+  "lama": 666,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Besok"
+ },
+ "normal|Bibi": {
+  "file": "bibi-normal-dbda4249.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bibi"
+ },
+ "normal|Bintang": {
+  "file": "bintang-normal-8d95ca7b.mp3",
+  "kecepatan": "normal",
+  "lama": 924,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bintang"
+ },
+ "normal|Biru": {
+  "file": "biru-normal-f9f33fb4.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Biru"
+ },
+ "normal|Bisa": {
+  "file": "bisa-normal-cea78780.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bisa"
+ },
+ "normal|Biskuit": {
+  "file": "biskuit-normal-40f8eba9.mp3",
+  "kecepatan": "normal",
+  "lama": 761,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Biskuit"
+ },
+ "normal|Bola": {
+  "file": "bola-normal-a91dd650.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bola"
+ },
+ "normal|Boleh": {
+  "file": "boleh-normal-7e6fff64.mp3",
+  "kecepatan": "normal",
+  "lama": 734,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Boleh"
+ },
+ "normal|Boleh saya pinjam pensil?": {
+  "file": "boleh-saya-pinjam-pensil-normal-a9f44ecb.mp3",
+  "kecepatan": "normal",
+  "lama": 2065,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Boleh saya pinjam pensil?"
+ },
+ "normal|Boneka": {
+  "file": "boneka-normal-df0d461d.mp3",
+  "kecepatan": "normal",
+  "lama": 992,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Boneka"
+ },
+ "normal|Buah": {
+  "file": "buah-normal-66f5f6d1.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Buah"
+ },
+ "normal|Buaya": {
+  "file": "buaya-normal-5ab42962.mp3",
+  "kecepatan": "normal",
+  "lama": 924,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Buaya"
+ },
+ "normal|Bubur": {
+  "file": "bubur-normal-2b01a3ef.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bubur"
+ },
+ "normal|Budi": {
+  "file": "cache/budi-normal-2f991224.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Budi"
+ },
+ "normal|Buku": {
+  "file": "buku-normal-2b7998ef.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Buku"
+ },
+ "normal|Bulan": {
+  "file": "bulan-normal-3fcafb4b.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bulan"
+ },
+ "normal|Bunga": {
+  "file": "bunga-normal-34a1a661.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bunga"
+ },
+ "normal|Burung": {
+  "file": "burung-normal-43a82358.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Burung"
+ },
+ "normal|Bus": {
+  "file": "bus-normal-9b5805c8.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bus"
+ },
+ "normal|C": {
+  "file": "c-normal-dc9901e8.mp3",
+  "kecepatan": "normal",
+  "lama": 639,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "C"
+ },
+ "normal|Cantik": {
+  "file": "cantik-normal-79c8aec7.mp3",
+  "kecepatan": "normal",
+  "lama": 679,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Cantik"
+ },
+ "normal|Capek": {
+  "file": "capek-normal-e33eadf2.mp3",
+  "kecepatan": "normal",
+  "lama": 652,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Capek"
+ },
+ "normal|Celana": {
+  "file": "celana-normal-fb529940.mp3",
+  "kecepatan": "normal",
+  "lama": 910,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Celana"
+ },
+ "normal|Cicak": {
+  "file": "cicak-normal-e37ae59b.mp3",
+  "kecepatan": "normal",
+  "lama": 625,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Cicak"
+ },
+ "normal|Cokelat": {
+  "file": "cokelat-normal-791454a4.mp3",
+  "kecepatan": "normal",
+  "lama": 707,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Cokelat"
+ },
+ "normal|Cuci tangan": {
+  "file": "cuci-tangan-normal-63077e17.mp3",
+  "kecepatan": "normal",
+  "lama": 1250,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Cuci tangan"
+ },
+ "normal|D": {
+  "file": "d-normal-93bd72f9.mp3",
+  "kecepatan": "normal",
+  "lama": 625,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "D"
+ },
+ "normal|Dadah": {
+  "file": "dadah-normal-aac42106.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Dadah"
+ },
+ "normal|Dan": {
+  "file": "dan-normal-6fdf80e6.mp3",
+  "kecepatan": "normal",
+  "lama": 598,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Dan"
+ },
+ "normal|Dapur": {
+  "file": "dapur-normal-d129ffa2.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Dapur"
+ },
+ "normal|Dari": {
+  "file": "dari-normal-727a2980.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Dari"
+ },
+ "normal|Datang": {
+  "file": "datang-normal-008cd476.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Datang"
+ },
+ "normal|Daun": {
+  "file": "daun-normal-3a9b5315.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Daun"
+ },
+ "normal|Delapan": {
+  "file": "delapan-normal-03520e1c.mp3",
+  "kecepatan": "normal",
+  "lama": 978,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Delapan"
+ },
+ "normal|Dengan": {
+  "file": "dengan-normal-0942273b.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Dengan"
+ },
+ "normal|Di": {
+  "file": "di-normal-bb250ae0.mp3",
+  "kecepatan": "normal",
+  "lama": 625,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Di"
+ },
+ "normal|Di mana kamar mandi?": {
+  "file": "di-mana-kamar-mandi-normal-04cf891b.mp3",
+  "kecepatan": "normal",
+  "lama": 1644,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Di mana kamar mandi?"
+ },
+ "normal|Dia": {
+  "file": "dia-normal-1c1d9f5e.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Dia"
+ },
+ "normal|Dingin": {
+  "file": "dingin-normal-99d37ea1.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Dingin"
+ },
+ "normal|Dokter": {
+  "file": "dokter-normal-c7d02d8c.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Dokter"
+ },
+ "normal|Domba": {
+  "file": "domba-normal-ec330b2b.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Domba"
+ },
+ "normal|Dua": {
+  "file": "dua-normal-76803338.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Dua"
+ },
+ "normal|Duduk": {
+  "file": "duduk-normal-ec521789.mp3",
+  "kecepatan": "normal",
+  "lama": 611,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Duduk"
+ },
+ "normal|E": {
+  "file": "e-normal-74e0f786.mp3",
+  "kecepatan": "normal",
+  "lama": 598,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "E"
+ },
+ "normal|Elang": {
+  "file": "elang-normal-2339312e.mp3",
+  "kecepatan": "normal",
+  "lama": 720,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Elang"
+ },
+ "normal|Ember": {
+  "file": "ember-normal-0f1a8bfe.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ember"
+ },
+ "normal|Empat": {
+  "file": "empat-normal-6b419f9f.mp3",
+  "kecepatan": "normal",
+  "lama": 652,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Empat"
+ },
+ "normal|Enam": {
+  "file": "enam-normal-927b2d3b.mp3",
+  "kecepatan": "normal",
+  "lama": 693,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Enam"
+ },
+ "normal|Es krim": {
+  "file": "es-krim-normal-8e9a4075.mp3",
+  "kecepatan": "normal",
+  "lama": 1005,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Es krim"
+ },
+ "normal|F": {
+  "file": "f-normal-1b0a70af.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "F"
+ },
+ "normal|Film": {
+  "file": "film-normal-04a7f5cc.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Film"
+ },
+ "normal|Foto": {
+  "file": "foto-normal-e097404c.mp3",
+  "kecepatan": "normal",
+  "lama": 938,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Foto"
+ },
+ "normal|G": {
+  "file": "g-normal-e5fd36a7.mp3",
+  "kecepatan": "normal",
+  "lama": 625,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "G"
+ },
+ "normal|Gajah": {
+  "file": "gajah-normal-4137adc3.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gajah"
+ },
+ "normal|Gambar": {
+  "file": "gambar-normal-8915ec2f.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gambar"
+ },
+ "normal|Gelas": {
+  "file": "gelas-normal-70020c76.mp3",
+  "kecepatan": "normal",
+  "lama": 910,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gelas"
+ },
+ "normal|Gereja": {
+  "file": "gereja-normal-ac3555a8.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gereja"
+ },
+ "normal|Gigi": {
+  "file": "gigi-normal-18ec683a.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gigi"
+ },
+ "normal|Gitar": {
+  "file": "gitar-normal-c2464f95.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gitar"
+ },
+ "normal|Gosok gigi": {
+  "file": "gosok-gigi-normal-c7d1aa28.mp3",
+  "kecepatan": "normal",
+  "lama": 1386,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gosok gigi"
+ },
+ "normal|Gunting": {
+  "file": "gunting-normal-c241533f.mp3",
+  "kecepatan": "normal",
+  "lama": 897,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gunting"
+ },
+ "normal|Gunung": {
+  "file": "gunung-normal-ad5f0b43.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gunung"
+ },
+ "normal|Guru": {
+  "file": "guru-normal-97fa9925.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Guru"
+ },
+ "normal|H": {
+  "file": "h-normal-638626e7.mp3",
+  "kecepatan": "normal",
+  "lama": 720,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "H"
+ },
+ "normal|Halo": {
+  "file": "halo-normal-c0738ad0.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Halo"
+ },
+ "normal|Halo apa kabar": {
+  "file": "cache/halo-apa-kabar-normal-ce4d6aa7.mp3",
+  "kecepatan": "normal",
+  "lama": 1658,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Halo apa kabar"
+ },
+ "normal|Halo, apa kabar?": {
+  "file": "cache/halo-apa-kabar-normal-0795890b.mp3",
+  "kecepatan": "normal",
+  "lama": 2174,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Halo, apa kabar?"
+ },
+ "normal|Handuk": {
+  "file": "handuk-normal-3901af15.mp3",
+  "kecepatan": "normal",
+  "lama": 707,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Handuk"
+ },
+ "normal|Hari ini": {
+  "file": "hari-ini-normal-4302fe9a.mp3",
+  "kecepatan": "normal",
+  "lama": 1155,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Hari ini"
+ },
+ "normal|Hari ini hujan.": {
+  "file": "hari-ini-hujan-normal-dbe126da.mp3",
+  "kecepatan": "normal",
+  "lama": 1671,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Hari ini hujan."
+ },
+ "normal|Harimau": {
+  "file": "harimau-normal-a1162a21.mp3",
+  "kecepatan": "normal",
+  "lama": 1087,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Harimau"
+ },
+ "normal|Haus": {
+  "file": "haus-normal-93318640.mp3",
+  "kecepatan": "normal",
+  "lama": 1277,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Haus"
+ },
+ "normal|Helikopter": {
+  "file": "helikopter-normal-f6d3f0dd.mp3",
+  "kecepatan": "normal",
+  "lama": 1277,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Helikopter"
+ },
+ "normal|Hidung": {
+  "file": "hidung-normal-b992de2d.mp3",
+  "kecepatan": "normal",
+  "lama": 897,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Hidung"
+ },
+ "normal|Hijau": {
+  "file": "hijau-normal-92e84251.mp3",
+  "kecepatan": "normal",
+  "lama": 897,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Hijau"
+ },
+ "normal|Hitam": {
+  "file": "hitam-normal-86ed9b04.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Hitam"
+ },
+ "normal|Hujan": {
+  "file": "hujan-normal-4bed0c79.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Hujan"
+ },
+ "normal|Huruf": {
+  "file": "huruf-normal-f331ec0b.mp3",
+  "kecepatan": "normal",
+  "lama": 965,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Huruf"
+ },
+ "normal|I": {
+  "file": "i-normal-9c0f865f.mp3",
+  "kecepatan": "normal",
+  "lama": 598,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "I"
+ },
+ "normal|Ibu": {
+  "file": "ibu-normal-f4c1719e.mp3",
+  "kecepatan": "normal",
+  "lama": 693,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ibu"
+ },
+ "normal|Ibu, tolong saya.": {
+  "file": "cache/ibu-tolong-saya-normal-b9e25d88.mp3",
+  "kecepatan": "normal",
+  "lama": 2228,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ibu, tolong saya."
+ },
+ "normal|Ikan": {
+  "file": "ikan-normal-7b110e6a.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ikan"
+ },
+ "normal|Ini": {
+  "file": "ini-normal-a3bbdf9a.mp3",
+  "kecepatan": "normal",
+  "lama": 707,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ini"
+ },
+ "normal|Ini buku saya.": {
+  "file": "ini-buku-saya-normal-9d841aeb.mp3",
+  "kecepatan": "normal",
+  "lama": 1590,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ini buku saya."
+ },
+ "normal|Itu": {
+  "file": "itu-normal-7fa3d663.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Itu"
+ },
+ "normal|J": {
+  "file": "j-normal-50606b66.mp3",
+  "kecepatan": "normal",
+  "lama": 598,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "J"
+ },
+ "normal|Jagung": {
+  "file": "jagung-normal-420f1af5.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Jagung"
+ },
+ "normal|Jalan": {
+  "file": "jalan-normal-db71b562.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Jalan"
+ },
+ "normal|Jam": {
+  "file": "jam-normal-b5712280.mp3",
+  "kecepatan": "normal",
+  "lama": 611,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Jam"
+ },
+ "normal|Jari": {
+  "file": "jari-normal-f654bd9a.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Jari"
+ },
+ "normal|Jendela": {
+  "file": "jendela-normal-8a01dc68.mp3",
+  "kecepatan": "normal",
+  "lama": 992,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Jendela"
+ },
+ "normal|Jerapah": {
+  "file": "jerapah-normal-8a8a290e.mp3",
+  "kecepatan": "normal",
+  "lama": 1005,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Jerapah"
+ },
+ "normal|Jeruk": {
+  "file": "jeruk-normal-f3c066cb.mp3",
+  "kecepatan": "normal",
+  "lama": 611,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Jeruk"
+ },
+ "normal|Jus": {
+  "file": "jus-normal-c32e45d7.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Jus"
+ },
+ "normal|K": {
+  "file": "k-normal-de73d326.mp3",
+  "kecepatan": "normal",
+  "lama": 598,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "K"
+ },
+ "normal|Kacamata": {
+  "file": "kacamata-normal-d375afaf.mp3",
+  "kecepatan": "normal",
+  "lama": 1182,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kacamata"
+ },
+ "normal|Kaget": {
+  "file": "kaget-normal-9a016118.mp3",
+  "kecepatan": "normal",
+  "lama": 639,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kaget"
+ },
+ "normal|Kakak": {
+  "file": "kakak-normal-448436f5.mp3",
+  "kecepatan": "normal",
+  "lama": 611,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kakak"
+ },
+ "normal|Kakak main sepeda.": {
+  "file": "kakak-main-sepeda-normal-740c3f74.mp3",
+  "kecepatan": "normal",
+  "lama": 1780,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kakak main sepeda."
+ },
+ "normal|Kakek": {
+  "file": "kakek-normal-3c95d8e4.mp3",
+  "kecepatan": "normal",
+  "lama": 679,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kakek"
+ },
+ "normal|Kaki": {
+  "file": "kaki-normal-79b1ba73.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kaki"
+ },
+ "normal|Kamar": {
+  "file": "kamar-normal-87466031.mp3",
+  "kecepatan": "normal",
+  "lama": 761,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kamar"
+ },
+ "normal|Kamar mandi": {
+  "file": "kamar-mandi-normal-ebe6d8ba.mp3",
+  "kecepatan": "normal",
+  "lama": 1372,
+  "mulai": 103,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kamar mandi"
+ },
+ "normal|Kambing": {
+  "file": "kambing-normal-75eeb1f1.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kambing"
+ },
+ "normal|Kamu": {
+  "file": "kamu-normal-5c8ab6d1.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kamu"
+ },
+ "normal|Kapal": {
+  "file": "kapal-normal-cfcfc4de.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kapal"
+ },
+ "normal|Kapan": {
+  "file": "kapan-normal-f6a082f6.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kapan"
+ },
+ "normal|Kasur": {
+  "file": "kasur-normal-0eae5399.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kasur"
+ },
+ "normal|Katak": {
+  "file": "katak-normal-79efe869.mp3",
+  "kecepatan": "normal",
+  "lama": 611,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Katak"
+ },
+ "normal|Kaus kaki": {
+  "file": "kaus-kaki-normal-9c1d5200.mp3",
+  "kecepatan": "normal",
+  "lama": 1250,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kaus kaki"
+ },
+ "normal|Ke": {
+  "file": "ke-normal-94ba55d7.mp3",
+  "kecepatan": "normal",
+  "lama": 625,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ke"
+ },
+ "normal|Kebun": {
+  "file": "kebun-normal-623252b1.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kebun"
+ },
+ "normal|Kecil": {
+  "file": "kecil-normal-4a43264a.mp3",
+  "kecepatan": "normal",
+  "lama": 761,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kecil"
+ },
+ "normal|Kelas": {
+  "file": "kelas-normal-2acc05ee.mp3",
+  "kecepatan": "normal",
+  "lama": 965,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kelas"
+ },
+ "normal|Kelinci": {
+  "file": "kelinci-normal-4918d94d.mp3",
+  "kecepatan": "normal",
+  "lama": 965,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kelinci"
+ },
+ "normal|Keluarga": {
+  "file": "keluarga-normal-12a48cbb.mp3",
+  "kecepatan": "normal",
+  "lama": 1019,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Keluarga"
+ },
+ "normal|Kemarin": {
+  "file": "kemarin-normal-65b05318.mp3",
+  "kecepatan": "normal",
+  "lama": 992,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kemarin"
+ },
+ "normal|Kenapa": {
+  "file": "kenapa-normal-65172519.mp3",
+  "kecepatan": "normal",
+  "lama": 924,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kenapa"
+ },
+ "normal|Kentang": {
+  "file": "kentang-normal-20fd0a6c.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kentang"
+ },
+ "normal|Kenyang": {
+  "file": "kenyang-normal-b1396f27.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kenyang"
+ },
+ "normal|Kepala": {
+  "file": "kepala-normal-6781e9f4.mp3",
+  "kecepatan": "normal",
+  "lama": 910,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kepala"
+ },
+ "normal|Kepiting": {
+  "file": "kepiting-normal-6e33fed6.mp3",
+  "kecepatan": "normal",
+  "lama": 1005,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kepiting"
+ },
+ "normal|Kereta": {
+  "file": "kereta-normal-e67086f0.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kereta"
+ },
+ "normal|Kertas": {
+  "file": "kertas-normal-8ea67b71.mp3",
+  "kecepatan": "normal",
+  "lama": 1019,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kertas"
+ },
+ "normal|Kita": {
+  "file": "kita-normal-73912d08.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kita"
+ },
+ "normal|Kota": {
+  "file": "kota-normal-f2d063ca.mp3",
+  "kecepatan": "normal",
+  "lama": 761,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kota"
+ },
+ "normal|Kotor": {
+  "file": "kotor-normal-9b8f3b44.mp3",
+  "kecepatan": "normal",
+  "lama": 761,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kotor"
+ },
+ "normal|Krayon": {
+  "file": "krayon-normal-4a69d35f.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Krayon"
+ },
+ "normal|Kucing": {
+  "file": "kucing-normal-f70b77e2.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kucing"
+ },
+ "normal|Kucing itu lucu.": {
+  "file": "kucing-itu-lucu-normal-909e762a.mp3",
+  "kecepatan": "normal",
+  "lama": 1603,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kucing itu lucu."
+ },
+ "normal|Kuda": {
+  "file": "kuda-normal-bd1d080e.mp3",
+  "kecepatan": "normal",
+  "lama": 734,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kuda"
+ },
+ "normal|Kue": {
+  "file": "kue-normal-297b6d2b.mp3",
+  "kecepatan": "normal",
+  "lama": 707,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kue"
+ },
+ "normal|Kunci": {
+  "file": "kunci-normal-49906780.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kunci"
+ },
+ "normal|Kuning": {
+  "file": "kuning-normal-deba361a.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kuning"
+ },
+ "normal|Kupu-kupu": {
+  "file": "kupu-kupu-normal-13adc9be.mp3",
+  "kecepatan": "normal",
+  "lama": 1155,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kupu-kupu"
+ },
+ "normal|Kura-kura": {
+  "file": "kura-kura-normal-0c75a19b.mp3",
+  "kecepatan": "normal",
+  "lama": 1101,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kura-kura"
+ },
+ "normal|Kursi": {
+  "file": "kursi-normal-d51b81ad.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kursi"
+ },
+ "normal|L": {
+  "file": "l-normal-77aebaf5.mp3",
+  "kecepatan": "normal",
+  "lama": 530,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "L"
+ },
+ "normal|Lagi": {
+  "file": "lagi-normal-1343b583.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lagi"
+ },
+ "normal|Lampu": {
+  "file": "lampu-normal-aa97e40f.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lampu"
+ },
+ "normal|Lapar": {
+  "file": "lapar-normal-3d347ef9.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lapar"
+ },
+ "normal|Lari": {
+  "file": "lari-normal-2c77d0dd.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lari"
+ },
+ "normal|Laut": {
+  "file": "laut-normal-59dfb382.mp3",
+  "kecepatan": "normal",
+  "lama": 652,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Laut"
+ },
+ "normal|Layang-layang": {
+  "file": "layang-layang-normal-0c264db6.mp3",
+  "kecepatan": "normal",
+  "lama": 1318,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Layang-layang"
+ },
+ "normal|Lebah": {
+  "file": "lebah-normal-04b1e960.mp3",
+  "kecepatan": "normal",
+  "lama": 720,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lebah"
+ },
+ "normal|Lem": {
+  "file": "lem-normal-924651cd.mp3",
+  "kecepatan": "normal",
+  "lama": 707,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lem"
+ },
+ "normal|Lidah": {
+  "file": "lidah-normal-eaa8f64c.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lidah"
+ },
+ "normal|Lihat": {
+  "file": "lihat-normal-358dd7f5.mp3",
+  "kecepatan": "normal",
+  "lama": 666,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lihat"
+ },
+ "normal|Lima": {
+  "file": "lima-normal-72ab4ea2.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lima"
+ },
+ "normal|Lompat": {
+  "file": "lompat-normal-8b798568.mp3",
+  "kecepatan": "normal",
+  "lama": 720,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lompat"
+ },
+ "normal|Lucu": {
+  "file": "lucu-normal-969ddc09.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lucu"
+ },
+ "normal|Lumba-lumba": {
+  "file": "lumba-lumba-normal-e195878b.mp3",
+  "kecepatan": "normal",
+  "lama": 1291,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lumba-lumba"
+ },
+ "normal|M": {
+  "file": "m-normal-3cf2b169.mp3",
+  "kecepatan": "normal",
+  "lama": 625,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "M"
+ },
+ "normal|Maaf": {
+  "file": "maaf-normal-43efcb52.mp3",
+  "kecepatan": "normal",
+  "lama": 1005,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Maaf"
+ },
+ "normal|Maaf, saya terlambat.": {
+  "file": "maaf-saya-terlambat-normal-d20a1f02.mp3",
+  "kecepatan": "normal",
+  "lama": 2391,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Maaf, saya terlambat."
+ },
+ "normal|Main": {
+  "file": "main-normal-cac0e4e0.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Main"
+ },
+ "normal|Mainan": {
+  "file": "mainan-normal-e2249aae.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mainan"
+ },
+ "normal|Makan": {
+  "file": "makan-normal-805e3b39.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Makan"
+ },
+ "normal|Malam": {
+  "file": "malam-normal-d4a3f26a.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Malam"
+ },
+ "normal|Malu": {
+  "file": "malu-normal-3a57da46.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Malu"
+ },
+ "normal|Mana": {
+  "file": "mana-normal-52036886.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mana"
+ },
+ "normal|Mandi": {
+  "file": "mandi-normal-fea50785.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mandi"
+ },
+ "normal|Mangga": {
+  "file": "mangga-normal-35d5000b.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mangga"
+ },
+ "normal|Marah": {
+  "file": "marah-normal-bdd9e4ef.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Marah"
+ },
+ "normal|Mari": {
+  "file": "mari-normal-ad0a8cc9.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mari"
+ },
+ "normal|Mari cuci tangan.": {
+  "file": "mari-cuci-tangan-normal-de416532.mp3",
+  "kecepatan": "normal",
+  "lama": 1644,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mari cuci tangan."
+ },
+ "normal|Masak": {
+  "file": "masak-normal-e56db3cd.mp3",
+  "kecepatan": "normal",
+  "lama": 625,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Masak"
+ },
+ "normal|Masjid": {
+  "file": "cache/masjid-normal-b1db1905.mp3",
+  "kecepatan": "normal",
+  "lama": 951,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Masjid"
+ },
+ "normal|Mata": {
+  "file": "mata-normal-fa80667b.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mata"
+ },
+ "normal|Matahari": {
+  "file": "matahari-normal-fafa6504.mp3",
+  "kecepatan": "normal",
+  "lama": 1182,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Matahari"
+ },
+ "normal|Mau": {
+  "file": "mau-normal-bc30eb0a.mp3",
+  "kecepatan": "normal",
+  "lama": 734,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mau"
+ },
+ "normal|Meja": {
+  "file": "meja-normal-4f1e0085.mp3",
+  "kecepatan": "normal",
+  "lama": 1046,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Meja"
+ },
+ "normal|Menari": {
+  "file": "menari-normal-4c0ac869.mp3",
+  "kecepatan": "normal",
+  "lama": 924,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Menari"
+ },
+ "normal|Merah": {
+  "file": "merah-normal-b72aba0e.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Merah"
+ },
+ "normal|Merah muda": {
+  "file": "merah-muda-normal-c4d445f0.mp3",
+  "kecepatan": "normal",
+  "lama": 1304,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Merah muda"
+ },
+ "normal|Mewarnai": {
+  "file": "mewarnai-normal-a0dd4376.mp3",
+  "kecepatan": "normal",
+  "lama": 1141,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mewarnai"
+ },
+ "normal|Mi": {
+  "file": "mi-normal-ab54d4cd.mp3",
+  "kecepatan": "normal",
+  "lama": 652,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mi"
+ },
+ "normal|Minggu": {
+  "file": "minggu-normal-af2af2f5.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Minggu"
+ },
+ "normal|Minum": {
+  "file": "minum-normal-82024bcf.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Minum"
+ },
+ "normal|Mobil": {
+  "file": "mobil-normal-1d3002a4.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mobil"
+ },
+ "normal|Monyet": {
+  "file": "monyet-normal-12d1f83c.mp3",
+  "kecepatan": "normal",
+  "lama": 693,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Monyet"
+ },
+ "normal|Motor": {
+  "file": "motor-normal-2379ae55.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Motor"
+ },
+ "normal|Mulut": {
+  "file": "mulut-normal-17259454.mp3",
+  "kecepatan": "normal",
+  "lama": 584,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mulut"
+ },
+ "normal|N": {
+  "file": "n-normal-e5fa9132.mp3",
+  "kecepatan": "normal",
+  "lama": 598,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "N"
+ },
+ "normal|Nama": {
+  "file": "nama-normal-f759fd0a.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Nama"
+ },
+ "normal|Nanas": {
+  "file": "nanas-normal-bc04efa8.mp3",
+  "kecepatan": "normal",
+  "lama": 978,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Nanas"
+ },
+ "normal|Nanti": {
+  "file": "nanti-normal-0424c03c.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Nanti"
+ },
+ "normal|Nasi": {
+  "file": "nasi-normal-f961a70c.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Nasi"
+ },
+ "normal|Nasi goreng": {
+  "file": "nasi-goreng-normal-e390cd1a.mp3",
+  "kecepatan": "normal",
+  "lama": 1264,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Nasi goreng"
+ },
+ "normal|Nenek": {
+  "file": "nenek-normal-bd532532.mp3",
+  "kecepatan": "normal",
+  "lama": 611,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Nenek"
+ },
+ "normal|Ngantuk": {
+  "file": "ngantuk-normal-db2f2ac1.mp3",
+  "kecepatan": "normal",
+  "lama": 679,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ngantuk"
+ },
+ "normal|O": {
+  "file": "o-normal-18194c1e.mp3",
+  "kecepatan": "normal",
+  "lama": 598,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "O"
+ },
+ "normal|Obat": {
+  "file": "obat-normal-7875f186.mp3",
+  "kecepatan": "normal",
+  "lama": 571,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Obat"
+ },
+ "normal|Ombak": {
+  "file": "ombak-normal-48ae30d6.mp3",
+  "kecepatan": "normal",
+  "lama": 611,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ombak"
+ },
+ "normal|Oranye": {
+  "file": "oranye-normal-69dcb448.mp3",
+  "kecepatan": "normal",
+  "lama": 924,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Oranye"
+ },
+ "normal|Otot": {
+  "file": "otot-normal-285bd7d6.mp3",
+  "kecepatan": "normal",
+  "lama": 611,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Otot"
+ },
+ "normal|P": {
+  "file": "p-normal-b4158b1d.mp3",
+  "kecepatan": "normal",
+  "lama": 584,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "P"
+ },
+ "normal|Pagi": {
+  "file": "pagi-normal-d512d379.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pagi"
+ },
+ "normal|Paman": {
+  "file": "paman-normal-ef421592.mp3",
+  "kecepatan": "normal",
+  "lama": 910,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Paman"
+ },
+ "normal|Panas": {
+  "file": "panas-normal-15737bb0.mp3",
+  "kecepatan": "normal",
+  "lama": 992,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Panas"
+ },
+ "normal|Pantai": {
+  "file": "pantai-normal-b28c5f87.mp3",
+  "kecepatan": "normal",
+  "lama": 910,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pantai"
+ },
+ "normal|Papan tulis": {
+  "file": "papan-tulis-normal-a8afee77.mp3",
+  "kecepatan": "normal",
+  "lama": 1522,
+  "mulai": 103,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Papan tulis"
+ },
+ "normal|Pasar": {
+  "file": "pasar-normal-528684ad.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pasar"
+ },
+ "normal|Payung": {
+  "file": "payung-normal-484456f6.mp3",
+  "kecepatan": "normal",
+  "lama": 897,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Payung"
+ },
+ "normal|Pelangi": {
+  "file": "pelangi-normal-fa07d7fb.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pelangi"
+ },
+ "normal|Peluk": {
+  "file": "peluk-normal-c8bc691c.mp3",
+  "kecepatan": "normal",
+  "lama": 543,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Peluk"
+ },
+ "normal|Penggaris": {
+  "file": "penggaris-normal-8752796e.mp3",
+  "kecepatan": "normal",
+  "lama": 1168,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Penggaris"
+ },
+ "normal|Penghapus": {
+  "file": "penghapus-normal-d86638eb.mp3",
+  "kecepatan": "normal",
+  "lama": 1236,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Penghapus"
+ },
+ "normal|Pensil": {
+  "file": "pensil-normal-245b7ec8.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pensil"
+ },
+ "normal|Pergi": {
+  "file": "pergi-normal-4ced7221.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pergi"
+ },
+ "normal|Permen": {
+  "file": "permen-normal-cbb93110.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Permen"
+ },
+ "normal|Permisi": {
+  "file": "permisi-normal-8831b1ff.mp3",
+  "kecepatan": "normal",
+  "lama": 1087,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Permisi"
+ },
+ "normal|Perut": {
+  "file": "perut-normal-317b81fa.mp3",
+  "kecepatan": "normal",
+  "lama": 571,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Perut"
+ },
+ "normal|Pesawat": {
+  "file": "pesawat-normal-b7378f61.mp3",
+  "kecepatan": "normal",
+  "lama": 761,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pesawat"
+ },
+ "normal|Pinjam": {
+  "file": "pinjam-normal-8314da43.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pinjam"
+ },
+ "normal|Pintar": {
+  "file": "pintar-normal-2cd01a2c.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pintar"
+ },
+ "normal|Pintu": {
+  "file": "pintu-normal-e25013b5.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pintu"
+ },
+ "normal|Pipis": {
+  "file": "pipis-normal-746684ca.mp3",
+  "kecepatan": "normal",
+  "lama": 1073,
+  "mulai": 103,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pipis"
+ },
+ "normal|Piring": {
+  "file": "piring-normal-9c1b5f16.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Piring"
+ },
+ "normal|Pisang": {
+  "file": "pisang-normal-798f8e9e.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pisang"
+ },
+ "normal|Pizza": {
+  "file": "pizza-normal-7940d2a6.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pizza"
+ },
+ "normal|Pohon": {
+  "file": "pohon-normal-9aa2702f.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pohon"
+ },
+ "normal|Pulang": {
+  "file": "pulang-normal-700b5dc6.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pulang"
+ },
+ "normal|Pulpen": {
+  "file": "pulpen-normal-abf11d69.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pulpen"
+ },
+ "normal|Punya": {
+  "file": "punya-normal-9871ef82.mp3",
+  "kecepatan": "normal",
+  "lama": 897,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Punya"
+ },
+ "normal|Putih": {
+  "file": "putih-normal-335338e3.mp3",
+  "kecepatan": "normal",
+  "lama": 910,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Putih"
+ },
+ "normal|Quran": {
+  "file": "quran-normal-95373b42.mp3",
+  "kecepatan": "normal",
+  "lama": 897,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Quran"
+ },
+ "normal|R": {
+  "file": "r-normal-09968ecf.mp3",
+  "kecepatan": "normal",
+  "lama": 679,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "R"
+ },
+ "normal|Rambut": {
+  "file": "rambut-normal-14c94d8b.mp3",
+  "kecepatan": "normal",
+  "lama": 679,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Rambut"
+ },
+ "normal|Roti": {
+  "file": "roti-normal-67267559.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Roti"
+ },
+ "normal|Rumah": {
+  "file": "rumah-normal-e4487fbf.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Rumah"
+ },
+ "normal|Rumah sakit": {
+  "file": "rumah-sakit-normal-57b1e683.mp3",
+  "kecepatan": "normal",
+  "lama": 1128,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Rumah sakit"
+ },
+ "normal|S": {
+  "file": "s-normal-3785bb0e.mp3",
+  "kecepatan": "normal",
+  "lama": 897,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "S"
+ },
+ "normal|Sabun": {
+  "file": "sabun-normal-760a03b0.mp3",
+  "kecepatan": "normal",
+  "lama": 924,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sabun"
+ },
+ "normal|Sakit": {
+  "file": "sakit-normal-a5db37e9.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sakit"
+ },
+ "normal|Sama-sama": {
+  "file": "sama-sama-normal-eef98be6.mp3",
+  "kecepatan": "normal",
+  "lama": 1264,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sama-sama"
+ },
+ "normal|Sapi": {
+  "file": "sapi-normal-e42f06d4.mp3",
+  "kecepatan": "normal",
+  "lama": 965,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sapi"
+ },
+ "normal|Sate": {
+  "file": "sate-normal-f88fa423.mp3",
+  "kecepatan": "normal",
+  "lama": 951,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sate"
+ },
+ "normal|Satu": {
+  "file": "satu-normal-550f7259.mp3",
+  "kecepatan": "normal",
+  "lama": 965,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Satu"
+ },
+ "normal|Saya": {
+  "file": "saya-normal-844155a0.mp3",
+  "kecepatan": "normal",
+  "lama": 897,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya"
+ },
+ "normal|Saya bisa.": {
+  "file": "saya-bisa-normal-9683a133.mp3",
+  "kecepatan": "normal",
+  "lama": 1277,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya bisa."
+ },
+ "normal|Saya capek.": {
+  "file": "saya-capek-normal-fecac631.mp3",
+  "kecepatan": "normal",
+  "lama": 1155,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya capek."
+ },
+ "normal|Saya haus.": {
+  "file": "saya-haus-normal-81ce335a.mp3",
+  "kecepatan": "normal",
+  "lama": 1522,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya haus."
+ },
+ "normal|Saya lapar.": {
+  "file": "saya-lapar-normal-c255ed0c.mp3",
+  "kecepatan": "normal",
+  "lama": 1277,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya lapar."
+ },
+ "normal|Saya mau makan.": {
+  "file": "saya-mau-makan-normal-f8e53ce4.mp3",
+  "kecepatan": "normal",
+  "lama": 1644,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya mau makan."
+ },
+ "normal|Saya mau mandi.": {
+  "file": "cache/saya-mau-mandi-normal-f11f169c.mp3",
+  "kecepatan": "normal",
+  "lama": 1630,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya mau mandi."
+ },
+ "normal|Saya mau minum air.": {
+  "file": "saya-mau-minum-air-normal-2e6baf21.mp3",
+  "kecepatan": "normal",
+  "lama": 2024,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya mau minum air."
+ },
+ "normal|Saya mau minum susu.": {
+  "file": "saya-mau-minum-susu-normal-ecf045ad.mp3",
+  "kecepatan": "normal",
+  "lama": 2038,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya mau minum susu."
+ },
+ "normal|Saya mau pipis.": {
+  "file": "cache/saya-mau-pipis-normal-778a40ee.mp3",
+  "kecepatan": "normal",
+  "lama": 1848,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya mau pipis."
+ },
+ "normal|Saya mau pulang.": {
+  "file": "cache/saya-mau-pulang-normal-9543c362.mp3",
+  "kecepatan": "normal",
+  "lama": 1617,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya mau pulang."
+ },
+ "normal|Saya mau tidur.": {
+  "file": "saya-mau-tidur-normal-d1794548.mp3",
+  "kecepatan": "normal",
+  "lama": 1671,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya mau tidur."
+ },
+ "normal|Saya pergi ke sekolah.": {
+  "file": "cache/saya-pergi-ke-sekolah-normal-b232a5c8.mp3",
+  "kecepatan": "normal",
+  "lama": 1929,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya pergi ke sekolah."
+ },
+ "normal|Saya punya kucing.": {
+  "file": "saya-punya-kucing-normal-770d0108.mp3",
+  "kecepatan": "normal",
+  "lama": 1780,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya punya kucing."
+ },
+ "normal|Saya sakit perut.": {
+  "file": "saya-sakit-perut-normal-e9750559.mp3",
+  "kecepatan": "normal",
+  "lama": 1535,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya sakit perut."
+ },
+ "normal|Saya sayang Ayah.": {
+  "file": "cache/saya-sayang-ayah-normal-818f740b.mp3",
+  "kecepatan": "normal",
+  "lama": 1753,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya sayang Ayah."
+ },
+ "normal|Saya sayang Ibu.": {
+  "file": "saya-sayang-ibu-normal-14c9af7a.mp3",
+  "kecepatan": "normal",
+  "lama": 1671,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya sayang Ibu."
+ },
+ "normal|Saya sedih.": {
+  "file": "cache/saya-sedih-normal-f1d9053e.mp3",
+  "kecepatan": "normal",
+  "lama": 1304,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya sedih."
+ },
+ "normal|Saya senang sekali.": {
+  "file": "saya-senang-sekali-normal-48543f33.mp3",
+  "kecepatan": "normal",
+  "lama": 1807,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya senang sekali."
+ },
+ "normal|Saya sudah kenyang.": {
+  "file": "saya-sudah-kenyang-normal-3307ebb0.mp3",
+  "kecepatan": "normal",
+  "lama": 1766,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya sudah kenyang."
+ },
+ "normal|Saya suka apel.": {
+  "file": "saya-suka-apel-normal-54049682.mp3",
+  "kecepatan": "normal",
+  "lama": 1739,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Saya suka apel."
+ },
+ "normal|Sayang": {
+  "file": "sayang-normal-6d35d0d9.mp3",
+  "kecepatan": "normal",
+  "lama": 938,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sayang"
+ },
+ "normal|Sayur": {
+  "file": "sayur-normal-e3146920.mp3",
+  "kecepatan": "normal",
+  "lama": 938,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sayur"
+ },
+ "normal|Sedang": {
+  "file": "sedang-normal-2e18ae44.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sedang"
+ },
+ "normal|Sedih": {
+  "file": "sedih-normal-7cad1e19.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sedih"
+ },
+ "normal|Sekali": {
+  "file": "sekali-normal-5c5ad385.mp3",
+  "kecepatan": "normal",
+  "lama": 1046,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sekali"
+ },
+ "normal|Sekarang": {
+  "file": "sekarang-normal-e1424233.mp3",
+  "kecepatan": "normal",
+  "lama": 1114,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sekarang"
+ },
+ "normal|Sekolah": {
+  "file": "sekolah-normal-3266ff41.mp3",
+  "kecepatan": "normal",
+  "lama": 1060,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sekolah"
+ },
+ "normal|Selamat malam": {
+  "file": "selamat-malam-normal-19139334.mp3",
+  "kecepatan": "normal",
+  "lama": 1454,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Selamat malam"
+ },
+ "normal|Selamat malam, Ayah.": {
+  "file": "selamat-malam-ayah-normal-1ef37ee9.mp3",
+  "kecepatan": "normal",
+  "lama": 2310,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Selamat malam, Ayah."
+ },
+ "normal|Selamat pagi": {
+  "file": "selamat-pagi-normal-4d6b3f19.mp3",
+  "kecepatan": "normal",
+  "lama": 1427,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Selamat pagi"
+ },
+ "normal|Selamat pagi, Ibu.": {
+  "file": "cache/selamat-pagi-ibu-normal-b0be71a5.mp3",
+  "kecepatan": "normal",
+  "lama": 2283,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Selamat pagi, Ibu."
+ },
+ "normal|Selamat siang": {
+  "file": "selamat-siang-normal-4431e1df.mp3",
+  "kecepatan": "normal",
+  "lama": 1454,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Selamat siang"
+ },
+ "normal|Selamat sore": {
+  "file": "selamat-sore-normal-a145c0fd.mp3",
+  "kecepatan": "normal",
+  "lama": 1413,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Selamat sore"
+ },
+ "normal|Selimut": {
+  "file": "selimut-normal-4435772e.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Selimut"
+ },
+ "normal|Semangka": {
+  "file": "semangka-normal-37dfff43.mp3",
+  "kecepatan": "normal",
+  "lama": 1101,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Semangka"
+ },
+ "normal|Sembilan": {
+  "file": "sembilan-normal-5d2c8b9d.mp3",
+  "kecepatan": "normal",
+  "lama": 1060,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sembilan"
+ },
+ "normal|Semut": {
+  "file": "semut-normal-b89c96bb.mp3",
+  "kecepatan": "normal",
+  "lama": 693,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Semut"
+ },
+ "normal|Senang": {
+  "file": "senang-normal-6c53e5b2.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Senang"
+ },
+ "normal|Sendok": {
+  "file": "sendok-normal-d583f2fd.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sendok"
+ },
+ "normal|Sepatu": {
+  "file": "sepatu-normal-3d3d4fdc.mp3",
+  "kecepatan": "normal",
+  "lama": 1087,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sepatu"
+ },
+ "normal|Sepeda": {
+  "file": "sepeda-normal-86008cc4.mp3",
+  "kecepatan": "normal",
+  "lama": 1033,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sepeda"
+ },
+ "normal|Sepuluh": {
+  "file": "sepuluh-normal-0626ae40.mp3",
+  "kecepatan": "normal",
+  "lama": 1060,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sepuluh"
+ },
+ "normal|Siang": {
+  "file": "siang-normal-92d85b38.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Siang"
+ },
+ "normal|Siapa": {
+  "file": "siapa-normal-2f6febaa.mp3",
+  "kecepatan": "normal",
+  "lama": 951,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Siapa"
+ },
+ "normal|Siapa nama kamu?": {
+  "file": "siapa-nama-kamu-normal-ad3a6ffb.mp3",
+  "kecepatan": "normal",
+  "lama": 1549,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Siapa nama kamu?"
+ },
+ "normal|Sikat gigi": {
+  "file": "sikat-gigi-normal-eba6b33b.mp3",
+  "kecepatan": "normal",
+  "lama": 1386,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sikat gigi"
+ },
+ "normal|Singa": {
+  "file": "singa-normal-8115b667.mp3",
+  "kecepatan": "normal",
+  "lama": 883,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Singa"
+ },
+ "normal|Sore": {
+  "file": "sore-normal-79cdc4b8.mp3",
+  "kecepatan": "normal",
+  "lama": 829,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sore"
+ },
+ "normal|Stroberi": {
+  "file": "stroberi-normal-f4137d4b.mp3",
+  "kecepatan": "normal",
+  "lama": 1114,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Stroberi"
+ },
+ "normal|Sudah": {
+  "file": "sudah-normal-b2748bd7.mp3",
+  "kecepatan": "normal",
+  "lama": 856,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sudah"
+ },
+ "normal|Suka": {
+  "file": "suka-normal-fa92595e.mp3",
+  "kecepatan": "normal",
+  "lama": 951,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Suka"
+ },
+ "normal|Sungai": {
+  "file": "sungai-normal-204e39f7.mp3",
+  "kecepatan": "normal",
+  "lama": 965,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sungai"
+ },
+ "normal|Susu": {
+  "file": "susu-normal-9d416ad1.mp3",
+  "kecepatan": "normal",
+  "lama": 910,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Susu"
+ },
+ "normal|T": {
+  "file": "t-normal-39ce306b.mp3",
+  "kecepatan": "normal",
+  "lama": 571,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "T"
+ },
+ "normal|Takut": {
+  "file": "takut-normal-6155463d.mp3",
+  "kecepatan": "normal",
+  "lama": 611,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Takut"
+ },
+ "normal|Taman": {
+  "file": "taman-normal-8cb849ae.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Taman"
+ },
+ "normal|Tangan": {
+  "file": "tangan-normal-b4ea9bf8.mp3",
+  "kecepatan": "normal",
+  "lama": 802,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tangan"
+ },
+ "normal|Tas": {
+  "file": "tas-normal-dc2ee578.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tas"
+ },
+ "normal|Teh": {
+  "file": "teh-normal-65f63ae7.mp3",
+  "kecepatan": "normal",
+  "lama": 707,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Teh"
+ },
+ "normal|Telepon": {
+  "file": "telepon-normal-fb71b02f.mp3",
+  "kecepatan": "normal",
+  "lama": 897,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Telepon"
+ },
+ "normal|Televisi": {
+  "file": "televisi-normal-ee29cc19.mp3",
+  "kecepatan": "normal",
+  "lama": 1033,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Televisi"
+ },
+ "normal|Telinga": {
+  "file": "telinga-normal-a2523091.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Telinga"
+ },
+ "normal|Telur": {
+  "file": "telur-normal-65775975.mp3",
+  "kecepatan": "normal",
+  "lama": 720,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Telur"
+ },
+ "normal|Teman": {
+  "file": "teman-normal-6246d9df.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Teman"
+ },
+ "normal|Teman saya baik.": {
+  "file": "teman-saya-baik-normal-736d6f52.mp3",
+  "kecepatan": "normal",
+  "lama": 1345,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Teman saya baik."
+ },
+ "normal|Terima kasih": {
+  "file": "terima-kasih-normal-50edea70.mp3",
+  "kecepatan": "normal",
+  "lama": 1291,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Terima kasih"
+ },
+ "normal|Terima kasih, Guru.": {
+  "file": "cache/terima-kasih-guru-normal-c30bd22b.mp3",
+  "kecepatan": "normal",
+  "lama": 2133,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Terima kasih, Guru."
+ },
+ "normal|Terlambat": {
+  "file": "terlambat-normal-7341dfec.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Terlambat"
+ },
+ "normal|Tidak": {
+  "file": "tidak-normal-113431ad.mp3",
+  "kecepatan": "normal",
+  "lama": 584,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tidak"
+ },
+ "normal|Tidur": {
+  "file": "tidur-normal-35f76c75.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tidur"
+ },
+ "normal|Tiga": {
+  "file": "tiga-normal-144d00cf.mp3",
+  "kecepatan": "normal",
+  "lama": 720,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tiga"
+ },
+ "normal|Tikus": {
+  "file": "tikus-normal-6c03a724.mp3",
+  "kecepatan": "normal",
+  "lama": 951,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tikus"
+ },
+ "normal|Tolong": {
+  "file": "tolong-normal-bc3a263c.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tolong"
+ },
+ "normal|Tomat": {
+  "file": "tomat-normal-172a7c6f.mp3",
+  "kecepatan": "normal",
+  "lama": 584,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tomat"
+ },
+ "normal|Topi": {
+  "file": "topi-normal-ba901d94.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Topi"
+ },
+ "normal|Truk": {
+  "file": "truk-normal-4a33c2f9.mp3",
+  "kecepatan": "normal",
+  "lama": 489,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Truk"
+ },
+ "normal|Tujuh": {
+  "file": "tujuh-normal-228afd7e.mp3",
+  "kecepatan": "normal",
+  "lama": 788,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tujuh"
+ },
+ "normal|Tulis": {
+  "file": "tulis-normal-2e9aa83e.mp3",
+  "kecepatan": "normal",
+  "lama": 924,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tulis"
+ },
+ "normal|Tunggu": {
+  "file": "tunggu-normal-8d33e4d6.mp3",
+  "kecepatan": "normal",
+  "lama": 774,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tunggu"
+ },
+ "normal|U": {
+  "file": "u-normal-c44b237b.mp3",
+  "kecepatan": "normal",
+  "lama": 598,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "U"
+ },
+ "normal|Uang": {
+  "file": "uang-normal-e2ac6b2d.mp3",
+  "kecepatan": "normal",
+  "lama": 720,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Uang"
+ },
+ "normal|Udang": {
+  "file": "udang-normal-0113ba84.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Udang"
+ },
+ "normal|Ular": {
+  "file": "ular-normal-072ddaed.mp3",
+  "kecepatan": "normal",
+  "lama": 720,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ular"
+ },
+ "normal|Ungu": {
+  "file": "ungu-normal-74f5322e.mp3",
+  "kecepatan": "normal",
+  "lama": 707,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ungu"
+ },
+ "normal|V": {
+  "file": "v-normal-92492223.mp3",
+  "kecepatan": "normal",
+  "lama": 707,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "V"
+ },
+ "normal|Vas": {
+  "file": "vas-normal-06b7203d.mp3",
+  "kecepatan": "normal",
+  "lama": 951,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Vas"
+ },
+ "normal|Vitamin": {
+  "file": "vitamin-normal-cfefb00b.mp3",
+  "kecepatan": "normal",
+  "lama": 1114,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Vitamin"
+ },
+ "normal|W": {
+  "file": "w-normal-865bdbd3.mp3",
+  "kecepatan": "normal",
+  "lama": 720,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "W"
+ },
+ "normal|Wajah": {
+  "file": "wajah-normal-90551f22.mp3",
+  "kecepatan": "normal",
+  "lama": 815,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Wajah"
+ },
+ "normal|Wajan": {
+  "file": "wajan-normal-0e5a940f.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Wajan"
+ },
+ "normal|Wortel": {
+  "file": "wortel-normal-7d80a321.mp3",
+  "kecepatan": "normal",
+  "lama": 870,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Wortel"
+ },
+ "normal|X": {
+  "file": "x-normal-4be53615.mp3",
+  "kecepatan": "normal",
+  "lama": 761,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "X"
+ },
+ "normal|Xilofon": {
+  "file": "xilofon-normal-100f47f7.mp3",
+  "kecepatan": "normal",
+  "lama": 1060,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Xilofon"
+ },
+ "normal|Y": {
+  "file": "y-normal-64f0b8ed.mp3",
+  "kecepatan": "normal",
+  "lama": 747,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Y"
+ },
+ "normal|Ya": {
+  "file": "ya-normal-21fffb7d.mp3",
+  "kecepatan": "normal",
+  "lama": 584,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ya"
+ },
+ "normal|Yoyo": {
+  "file": "yoyo-normal-14593cee.mp3",
+  "kecepatan": "normal",
+  "lama": 842,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Yoyo"
+ },
+ "normal|Z": {
+  "file": "z-normal-1f1e8fee.mp3",
+  "kecepatan": "normal",
+  "lama": 693,
+  "mulai": 104,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Z"
+ },
+ "normal|Zebra": {
+  "file": "zebra-normal-51783a46.mp3",
+  "kecepatan": "normal",
+  "lama": 1046,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Zebra"
+ },
+ "normal|ki": {
+  "file": "ki-normal-878605d2.mp3",
+  "kecepatan": "normal",
+  "lama": 639,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "ki"
+ },
+ "pelan|A": {
+  "file": "a-pelan-342b7b33.mp3",
+  "kecepatan": "pelan",
+  "lama": 896,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "A"
+ },
+ "pelan|Apel": {
+  "file": "apel-pelan-62bf4a2d.mp3",
+  "kecepatan": "pelan",
+  "lama": 1208,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Apel"
+ },
+ "pelan|Ayam": {
+  "file": "ayam-pelan-42f9fb40.mp3",
+  "kecepatan": "pelan",
+  "lama": 1188,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ayam"
+ },
+ "pelan|B": {
+  "file": "b-pelan-25c0b53a.mp3",
+  "kecepatan": "pelan",
+  "lama": 958,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "B"
+ },
+ "pelan|Bola": {
+  "file": "bola-pelan-857d5e51.mp3",
+  "kecepatan": "pelan",
+  "lama": 1208,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Bola"
+ },
+ "pelan|Budi": {
+  "file": "cache/budi-pelan-8af70ad3.mp3",
+  "kecepatan": "pelan",
+  "lama": 1229,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Budi"
+ },
+ "pelan|Buku": {
+  "file": "buku-pelan-4b6ccd33.mp3",
+  "kecepatan": "pelan",
+  "lama": 1333,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Buku"
+ },
+ "pelan|C": {
+  "file": "c-pelan-c20bc802.mp3",
+  "kecepatan": "pelan",
+  "lama": 979,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "C"
+ },
+ "pelan|Cicak": {
+  "file": "cicak-pelan-016d709f.mp3",
+  "kecepatan": "pelan",
+  "lama": 958,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Cicak"
+ },
+ "pelan|Cokelat": {
+  "file": "cokelat-pelan-4ad9c0ef.mp3",
+  "kecepatan": "pelan",
+  "lama": 1083,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Cokelat"
+ },
+ "pelan|D": {
+  "file": "d-pelan-880666e6.mp3",
+  "kecepatan": "pelan",
+  "lama": 958,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "D"
+ },
+ "pelan|Daun": {
+  "file": "daun-pelan-18ed8aa0.mp3",
+  "kecepatan": "pelan",
+  "lama": 1146,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Daun"
+ },
+ "pelan|Domba": {
+  "file": "domba-pelan-c54caa5d.mp3",
+  "kecepatan": "pelan",
+  "lama": 1271,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Domba"
+ },
+ "pelan|E": {
+  "file": "e-pelan-e86787fe.mp3",
+  "kecepatan": "pelan",
+  "lama": 917,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "E"
+ },
+ "pelan|Elang": {
+  "file": "elang-pelan-d4bd5a44.mp3",
+  "kecepatan": "pelan",
+  "lama": 1104,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Elang"
+ },
+ "pelan|Ember": {
+  "file": "ember-pelan-cad08089.mp3",
+  "kecepatan": "pelan",
+  "lama": 1188,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ember"
+ },
+ "pelan|F": {
+  "file": "f-pelan-325c08f5.mp3",
+  "kecepatan": "pelan",
+  "lama": 1250,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "F"
+ },
+ "pelan|Film": {
+  "file": "film-pelan-500903b4.mp3",
+  "kecepatan": "pelan",
+  "lama": 1208,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Film"
+ },
+ "pelan|Foto": {
+  "file": "foto-pelan-5a813509.mp3",
+  "kecepatan": "pelan",
+  "lama": 1438,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Foto"
+ },
+ "pelan|G": {
+  "file": "g-pelan-9908efa6.mp3",
+  "kecepatan": "pelan",
+  "lama": 958,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "G"
+ },
+ "pelan|Gajah": {
+  "file": "gajah-pelan-cc3dfee3.mp3",
+  "kecepatan": "pelan",
+  "lama": 1312,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gajah"
+ },
+ "pelan|Gitar": {
+  "file": "gitar-pelan-70777e60.mp3",
+  "kecepatan": "pelan",
+  "lama": 1208,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Gitar"
+ },
+ "pelan|H": {
+  "file": "h-pelan-a4c3e773.mp3",
+  "kecepatan": "pelan",
+  "lama": 1104,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "H"
+ },
+ "pelan|Harimau": {
+  "file": "harimau-pelan-959fd41e.mp3",
+  "kecepatan": "pelan",
+  "lama": 1667,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Harimau"
+ },
+ "pelan|Hujan": {
+  "file": "hujan-pelan-9bcceda7.mp3",
+  "kecepatan": "pelan",
+  "lama": 1354,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Hujan"
+ },
+ "pelan|I": {
+  "file": "i-pelan-a9577045.mp3",
+  "kecepatan": "pelan",
+  "lama": 917,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "I"
+ },
+ "pelan|Ibu": {
+  "file": "ibu-pelan-58d65c08.mp3",
+  "kecepatan": "pelan",
+  "lama": 1062,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ibu"
+ },
+ "pelan|Ikan": {
+  "file": "ikan-pelan-e419de73.mp3",
+  "kecepatan": "pelan",
+  "lama": 1188,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ikan"
+ },
+ "pelan|J": {
+  "file": "j-pelan-bd22172a.mp3",
+  "kecepatan": "pelan",
+  "lama": 917,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "J"
+ },
+ "pelan|Jam": {
+  "file": "jam-pelan-3641a320.mp3",
+  "kecepatan": "pelan",
+  "lama": 938,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Jam"
+ },
+ "pelan|Jeruk": {
+  "file": "jeruk-pelan-1ca6f9b0.mp3",
+  "kecepatan": "pelan",
+  "lama": 938,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Jeruk"
+ },
+ "pelan|K": {
+  "file": "k-pelan-3da01e8c.mp3",
+  "kecepatan": "pelan",
+  "lama": 917,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "K"
+ },
+ "pelan|Kucing": {
+  "file": "kucing-pelan-95626c85.mp3",
+  "kecepatan": "pelan",
+  "lama": 1229,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kucing"
+ },
+ "pelan|Kuda": {
+  "file": "kuda-pelan-36e2bcde.mp3",
+  "kecepatan": "pelan",
+  "lama": 1125,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Kuda"
+ },
+ "pelan|L": {
+  "file": "l-pelan-77daf1a3.mp3",
+  "kecepatan": "pelan",
+  "lama": 812,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "L"
+ },
+ "pelan|Lampu": {
+  "file": "lampu-pelan-bf09221f.mp3",
+  "kecepatan": "pelan",
+  "lama": 1354,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Lampu"
+ },
+ "pelan|Layang-layang": {
+  "file": "layang-layang-pelan-ccfbc009.mp3",
+  "kecepatan": "pelan",
+  "lama": 2021,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Layang-layang"
+ },
+ "pelan|M": {
+  "file": "m-pelan-0a91a44b.mp3",
+  "kecepatan": "pelan",
+  "lama": 958,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "M"
+ },
+ "pelan|Mata": {
+  "file": "mata-pelan-0eb86ac0.mp3",
+  "kecepatan": "pelan",
+  "lama": 1271,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mata"
+ },
+ "pelan|Mobil": {
+  "file": "mobil-pelan-fee4ec7e.mp3",
+  "kecepatan": "pelan",
+  "lama": 1292,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Mobil"
+ },
+ "pelan|N": {
+  "file": "n-pelan-0dde4f0d.mp3",
+  "kecepatan": "pelan",
+  "lama": 917,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "N"
+ },
+ "pelan|Nanas": {
+  "file": "nanas-pelan-2779a4e0.mp3",
+  "kecepatan": "pelan",
+  "lama": 1500,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Nanas"
+ },
+ "pelan|Nasi": {
+  "file": "nasi-pelan-8382bcac.mp3",
+  "kecepatan": "pelan",
+  "lama": 1229,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Nasi"
+ },
+ "pelan|O": {
+  "file": "o-pelan-ae4d8d32.mp3",
+  "kecepatan": "pelan",
+  "lama": 917,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "O"
+ },
+ "pelan|Obat": {
+  "file": "obat-pelan-af092e11.mp3",
+  "kecepatan": "pelan",
+  "lama": 875,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Obat"
+ },
+ "pelan|Ombak": {
+  "file": "ombak-pelan-afa2fb43.mp3",
+  "kecepatan": "pelan",
+  "lama": 938,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ombak"
+ },
+ "pelan|P": {
+  "file": "p-pelan-58837776.mp3",
+  "kecepatan": "pelan",
+  "lama": 896,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "P"
+ },
+ "pelan|Payung": {
+  "file": "payung-pelan-1b109704.mp3",
+  "kecepatan": "pelan",
+  "lama": 1375,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Payung"
+ },
+ "pelan|Pisang": {
+  "file": "pisang-pelan-6bb12ec0.mp3",
+  "kecepatan": "pelan",
+  "lama": 1354,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Pisang"
+ },
+ "pelan|Quran": {
+  "file": "quran-pelan-f17144d4.mp3",
+  "kecepatan": "pelan",
+  "lama": 1375,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Quran"
+ },
+ "pelan|R": {
+  "file": "r-pelan-821d3a95.mp3",
+  "kecepatan": "pelan",
+  "lama": 1042,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "R"
+ },
+ "pelan|Roti": {
+  "file": "roti-pelan-20d2f18b.mp3",
+  "kecepatan": "pelan",
+  "lama": 1354,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Roti"
+ },
+ "pelan|Rumah": {
+  "file": "rumah-pelan-8c4742f4.mp3",
+  "kecepatan": "pelan",
+  "lama": 1188,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Rumah"
+ },
+ "pelan|S": {
+  "file": "s-pelan-0798b56e.mp3",
+  "kecepatan": "pelan",
+  "lama": 1375,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "S"
+ },
+ "pelan|Sapi": {
+  "file": "sapi-pelan-63f95f61.mp3",
+  "kecepatan": "pelan",
+  "lama": 1479,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sapi"
+ },
+ "pelan|Sepatu": {
+  "file": "sepatu-pelan-3b425e10.mp3",
+  "kecepatan": "pelan",
+  "lama": 1667,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Sepatu"
+ },
+ "pelan|T": {
+  "file": "t-pelan-84c0a71f.mp3",
+  "kecepatan": "pelan",
+  "lama": 875,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "T"
+ },
+ "pelan|Tas": {
+  "file": "tas-pelan-8dcfc0de.mp3",
+  "kecepatan": "pelan",
+  "lama": 1292,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Tas"
+ },
+ "pelan|Topi": {
+  "file": "topi-pelan-54d81545.mp3",
+  "kecepatan": "pelan",
+  "lama": 1208,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Topi"
+ },
+ "pelan|U": {
+  "file": "u-pelan-253cfde1.mp3",
+  "kecepatan": "pelan",
+  "lama": 917,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "U"
+ },
+ "pelan|Udang": {
+  "file": "udang-pelan-620abab8.mp3",
+  "kecepatan": "pelan",
+  "lama": 1146,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Udang"
+ },
+ "pelan|Ular": {
+  "file": "ular-pelan-d32a3cab.mp3",
+  "kecepatan": "pelan",
+  "lama": 1104,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Ular"
+ },
+ "pelan|V": {
+  "file": "v-pelan-070504da.mp3",
+  "kecepatan": "pelan",
+  "lama": 1083,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "V"
+ },
+ "pelan|Vas": {
+  "file": "vas-pelan-1c5c3e75.mp3",
+  "kecepatan": "pelan",
+  "lama": 1458,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Vas"
+ },
+ "pelan|Vitamin": {
+  "file": "vitamin-pelan-0172e4fb.mp3",
+  "kecepatan": "pelan",
+  "lama": 1708,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Vitamin"
+ },
+ "pelan|W": {
+  "file": "w-pelan-1e54484a.mp3",
+  "kecepatan": "pelan",
+  "lama": 1104,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "W"
+ },
+ "pelan|Wajan": {
+  "file": "wajan-pelan-4aa38bcc.mp3",
+  "kecepatan": "pelan",
+  "lama": 1292,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Wajan"
+ },
+ "pelan|Wortel": {
+  "file": "wortel-pelan-376ef16c.mp3",
+  "kecepatan": "pelan",
+  "lama": 1333,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Wortel"
+ },
+ "pelan|X": {
+  "file": "x-pelan-8c1f6926.mp3",
+  "kecepatan": "pelan",
+  "lama": 1167,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "X"
+ },
+ "pelan|Xilofon": {
+  "file": "xilofon-pelan-342b0081.mp3",
+  "kecepatan": "pelan",
+  "lama": 1625,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Xilofon"
+ },
+ "pelan|Y": {
+  "file": "y-pelan-97bc61cf.mp3",
+  "kecepatan": "pelan",
+  "lama": 1146,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Y"
+ },
+ "pelan|Yoyo": {
+  "file": "yoyo-pelan-2365187c.mp3",
+  "kecepatan": "pelan",
+  "lama": 1292,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Yoyo"
+ },
+ "pelan|Z": {
+  "file": "z-pelan-517f19e9.mp3",
+  "kecepatan": "pelan",
+  "lama": 1062,
+  "mulai": 133,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Z"
+ },
+ "pelan|Zebra": {
+  "file": "zebra-pelan-4940e7a1.mp3",
+  "kecepatan": "pelan",
+  "lama": 1604,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "Zebra"
+ },
+ "pelan|ki": {
+  "file": "ki-pelan-9bd4a38d.mp3",
+  "kecepatan": "pelan",
+  "lama": 979,
+  "mulai": 100,
+  "suara": "id-ID-GadisNeural",
+  "teks": "ki"
+ }
+}

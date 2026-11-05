@@ -1,0 +1,17 @@
+# Web & UI
+streamlit
+streamlit-webrtc
+
+# Suara manusia (neural) Bahasa Indonesia untuk huruf & kata
+edge-tts
+
+# Computer Vision & Machine Learning
+opencv-python
+mediapipe
+scikit-learn
+numpy
+
+# Dev Tools & Testing
+pytest
+black
+ruff

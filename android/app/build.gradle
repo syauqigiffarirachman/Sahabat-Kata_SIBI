@@ -1,0 +1,49 @@
+plugins {
+    id 'com.android.application'
+}
+
+// Kunci tanda tangan rilis dibaca dari keystore.properties (jangan dibagikan).
+def kunciProps = new Properties()
+def kunciFile = rootProject.file('keystore.properties')
+if (kunciFile.exists()) kunciFile.withInputStream { kunciProps.load(it) }
+
+android {
+    namespace 'id.sibi.isyarat'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'id.sibi.isyarat'
+        minSdk 26
+        targetSdk 34
+        versionCode 2
+        versionName '1.1.0'
+    }
+
+    signingConfigs {
+        rilis {
+            if (kunciFile.exists()) {
+                storeFile rootProject.file(kunciProps['storeFile'])
+                storePassword kunciProps['storePassword']
+                keyAlias kunciProps['keyAlias']
+                keyPassword kunciProps['keyPassword']
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig kunciFile.exists() ? signingConfigs.rilis : signingConfigs.debug
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    // File besar dibiarkan tidak terkompresi agar cepat dibaca dan bisa di-seek.
+    androidResources {
+        noCompress += ['wasm', 'task', 'mp3', 'webp', 'woff2']
+    }
+}

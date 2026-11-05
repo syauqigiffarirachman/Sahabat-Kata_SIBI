@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#4C6FFF"
+backgroundColor = "#FFFBF5"
+secondaryBackgroundColor = "#EEF1FF"
+textColor = "#2B2D42"
+borderColor = "#E4EAFF"
+baseRadius = "large"
+font = "Nunito:https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap"
+headingFont = "Nunito:https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+enableStaticServing = true

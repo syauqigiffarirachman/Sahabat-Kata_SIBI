@@ -1,0 +1,8 @@
+.gradle/
+build/
+app/build/
+local.properties
+keystore.properties
+*.jks
+# dibuat ulang oleh tools/build_mobile.py
+app/src/main/assets/www/
