@@ -7,6 +7,11 @@ foto tangan, file suara manusia, model huruf HP, MediaPipe, dan font ke
 android/app/src/main/assets/www/, lalu menulis data/konten.json dari
 sibi/content.py dan sibi/data/suara.json. Jalankan ulang setiap kali isi
 aplikasi berubah, lalu build APK (lihat android/README.md).
+
+    python tools/build_mobile.py --web
+
+Merakit aplikasi yang sama ke docs/ untuk versi web (GitHub Pages), agar
+bisa dibuka langsung di browser laptop/HP tanpa instal apa pun.
 """
 
 import json
@@ -19,7 +24,8 @@ sys.path.insert(0, str(ROOT))
 
 from sibi import content, kosakata
 
-OUT = ROOT / "android" / "app" / "src" / "main" / "assets" / "www"
+WEB = "--web" in sys.argv[1:]
+OUT = ROOT / "docs" if WEB else ROOT / "android" / "app" / "src" / "main" / "assets" / "www"
 
 
 def salin(src: Path, dst: Path) -> None:
@@ -89,6 +95,9 @@ def main():
     (OUT / "data").mkdir(exist_ok=True)
     (OUT / "data" / "konten.json").write_text(json.dumps(konten, ensure_ascii=False, separators=(",", ":")),
                                               encoding="utf-8")
+    if WEB:
+        # GitHub Pages: sajikan file apa adanya (tanpa pemrosesan Jekyll)
+        (OUT / ".nojekyll").write_text("", encoding="utf-8")
 
     total = sum(f.stat().st_size for f in OUT.rglob("*") if f.is_file())
     n = sum(1 for f in OUT.rglob("*") if f.is_file())

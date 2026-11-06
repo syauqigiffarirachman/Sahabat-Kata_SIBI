@@ -4,6 +4,22 @@ Aplikasi penerjemah Sistem Isyarat Bahasa Indonesia (SIBI) dua arah berbasis Com
 
 ---
 
+## 🚀 Cara Pakai (tanpa perlu paham kode)
+
+| Versi | Cara memakai |
+|---|---|
+| 🌐 **Web** (laptop / HP) | Buka **https://syauqigiffarirachman.github.io/Sahabat-Kata_SIBI/** di Chrome atau Edge. Tidak perlu instal apa pun. Izinkan kamera & mikrofon saat diminta. |
+| 📱 **Android (APK)** | Unduh file `.apk` terbaru di halaman [**Releases**](https://github.com/syauqigiffarirachman/Sahabat-Kata_SIBI/releases), buka di HP, izinkan "instal dari sumber tidak dikenal", lalu pasang. Android 8.0+. |
+| 🖥️ **Desktop / Streamlit** (Windows, macOS, Linux) | Perlu Python 3.10–3.12. Unduh kode lewat tombol hijau **Code → Download ZIP**, ekstrak, lalu ikuti [Panduan Instalasi](#️-panduan-instalasi--penggunaan) di bawah. |
+
+Versi web dan APK berisi aplikasi yang sama dan semua prosesnya berjalan di perangkat sendiri
+(gambar kamera tidak dikirim ke internet).
+
+> **Untuk pengembang:** versi web ada di folder `docs/` (disajikan GitHub Pages). Setelah mengubah isi
+> aplikasi, rakit ulang dengan `python tools/build_mobile.py --web`, lalu commit & push folder `docs/`.
+
+---
+
 ## 🌟 Fitur Utama
 
 **Fokus utama: kamus & media belajar huruf dan contoh kata untuk anak Tuli** (tab pertama di `app.py`, cepat, tanpa kamera/AI):
